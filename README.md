@@ -31,3 +31,5 @@ See [ModusToolbox™ Software Training](https://github.com/Infineon/training-mod
 # Developer community 
 Need support for your design and development questions? Check out the [ModusToolbox™ forum](https://community.infineon.com/t5/ModusToolbox/ct-p/ModusToolbox). Interact with technical experts in the embedded design community and receive answers verified by our very best applications engineers. You'll also have access to robust technical documentation, active conversation threads, and rich multimedia content.
 
+//Clone changes
+
